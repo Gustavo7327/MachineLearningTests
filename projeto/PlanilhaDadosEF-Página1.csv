@@ -1,0 +1,112 @@
+Nome (codificado),Sexo,Data de Nascimento,Localidade,Bolsa Família,Distancia da Escola (Km),Tipo de Escola EF,Renda Familiar,Resposável,Escolaridade do Responsável,Profissão do Responsável,Tamanho Família,Participação Econômica,1º MAT,2º MAT,3º MAT,4º MAT,5º MAT,6º MAT,7º MAT,8º MAT,9º MAT
+Aluno 01,Feminino,10/09/2006,Zona Rural,Sim,16 - 20 km,Pública,Mais de 1 até 2 salários mínimos,Mãe,Ensino médio completo,Serviços Rurais,6,Não,"6,5",8,8,8,6,6,7,6,7
+Aluno 02,Feminino,17/10/2006,Zona Urbana,Não,21 - 25 km,Pública,Mais de 2 até 3 salários mínimos,Mãe,Ensino médio completo,Autônomo(a),4,Não,,,,"8,8","8,8","7,3","7,9","9,5","8,8"
+Aluno 03,Feminino,15/07/2008,Zona Urbana,Não,26 - 30 km,Pública,Mais de 2 até 3 salários mínimos,Mãe,Ensino fundamental incompleto,Serviços Rurais,3,Não,,,,"8,2","7,9",6,"6,3","8,3","5,3"
+Aluno 04,Feminino,17/03/2009,Zona Rural,Sim,Não Informou,Pública,Até 1 salário mínimo,Mãe,Ensino médio completo,Serviços Rurais,3,Não,8,8,7,8,9,8,9,9,9
+Aluno 05,Feminino,14/05/2008,Zona Urbana,Não,21 - 25 km,Pública,Mais de 1 até 2 salários mínimos,Mãe,Ensino médio completo,Serviços Rurais,4,Não,,,,"7,8",8,8,8,6,6
+Aluno 06,Feminino,26/08/2008,Zona Rural,Não,0 - 5 km,Pública,Mais de 1 até 2 salários mínimos,Pai,Ensino fundamental incompleto,Serviços Rurais,4,Não,8,7,8,9,7,9,10,7,6
+Aluno 07,Masculino,02/03/2009,Zona Rural,Sim,11 - 15 km,Pública,Mais de 1 até 2 salários mínimos,Mãe,Ensino fundamental incompleto,Serviços Rurais,4,Não,8,8,7,7,7,8,9,6,7
+Aluno 08,Feminino,20/12/2008,Zona Urbana,Sim,16 - 20 km,Pública,Mais de 1 até 2 salários mínimos,Mãe,Ensino superior incompleto,Autônomo(a),4,Não,,,,"6,6","6,8","6,7",7,"6,5",5
+Aluno 09,Feminino,30/12/2008,Zona Rural,Não,Não Informou,Pública,Mais de 2 até 3 salários mínimos,Mãe,Ensino fundamental completo,Serviços Rurais,6,Não,7,8,8,8,6,9,7,8,8
+Aluno 10,Masculino,06/02/2008,Zona Rural,Sim,36 - 40 km,Pública,Até 1 salário mínimo,Mãe,Ensino fundamental incompleto,Serviços Rurais,3,Não,,,,"8,6",8,"7,3","6,8","7,7","6,8"
+Aluno 11,Masculino,19/09/2008,Zona Rural,Sim,Não Informou,Pública,Até 1 salário mínimo,Mãe,Ensino fundamental incompleto,Serviços Rurais,2,Não,8,10,10,9,9,6,6,6,6
+Aluno 12,Feminino,17/11/2008,Zona Rural,Não,0 - 5 km,Pública,Mais de 2 até 3 salários mínimos,Outro,Ensino médio completo,Setor Público,5,Não,8,9,8,7,8,7,6,7,6
+Aluno 13,Masculino,08/07/2008,Zona Urbana,Não,21 - 25 km,Pública,Até 1 salário mínimo,Mãe,Ensino médio completo,Serviços Rurais,4,Não,,,,9,"9,8","6,8",7,8,8
+Aluno 14,Feminino,05/02/2009,Zona Rural,Não,Não Informou,Pública,Até 1 salário mínimo,Outro,Ensino fundamental completo,Serviços Domésticos,5,Não,7,8,6,6,6,6,7,6,6
+Aluno 15,Masculino,16/03/2009,Zona Urbana,Não,16 - 20 km,Pública,Até 1 salário mínimo,Mãe,Ensino médio completo,Serviços Rurais,4,Não,7,8,6,7,7,8,9,7,7
+Aluno 16,Masculino,15/08/2008,Zona Rural,Não,Não Informou,Pública,Mais de 2 até 3 salários mínimos,Outro,Ensino médio completo,Serviços Rurais,2,Não,8,8,8,8,7,6,7,7,7
+Aluno 17,Masculino,16/10/2008,Zona Rural,Não,16 - 20 km,Pública,Até 1 salário mínimo,Mãe,Ensino fundamental incompleto,Serviços Rurais,4,Não,6,8,8,7,6,6,6,6,8
+Aluno 18,Feminino,17/07/2008,Zona Rural,Não,16 - 20 km,Pública,Mais de 1 até 2 salários mínimos,Mãe,Ensino médio completo,Setor Público,5,Não,,,,"7,6","8,9","8,6","7,8","6,1","7,2"
+Aluno 19,Feminino,30/09/2008,Zona Urbana,Não,16 - 20 km,Pública,Mais de 3 até 4 salários mínimos,Mãe,Ensino superior completo,Setor Público,6,Não,8,9,9,7,7,10,9,7,7
+Aluno 20,Feminino,03/08/2009,Zona Rural,Não,16 - 20 km,Pública,Até 1 salário mínimo,Mãe,Ensino fundamental incompleto,Serviços Rurais,3,Não,7,8,9,9,8,9,9,7,8
+Aluno 21,Masculino,15/10/2007,Zona Rural,Não,16 - 20 km,Pública,Mais de 2 até 3 salários mínimos,Mãe,Ensino médio completo,Serviços Rurais,4,Não,6,6,6,7,6,7,6,6,7
+Aluno 22,Masculino,13/04/2009,Zona Urbana,Sim,21 - 25 km,Pública,Mais de 1 até 2 salários mínimos,Pai,Ensino médio completo,Serviços Rurais,3,Não,8,7,7,7,8,7,8,7,7
+Aluno 23,Feminino,30/04/2009,Zona Rural,Sim,16 - 20 km,Pública,Até 1 salário mínimo,Mãe,Ensino fundamental completo,Serviços Rurais,3,Não,7,7,6,7,6,9,7,6,7
+Aluno 24,Feminino,08/09/2008,Zona Urbana,Não,Não Informou,Pública,Não Informado,Mãe,Ensino médio completo,Serviços Rurais,4,Não,,,,"7,5",6,7,"9,2","6,2","5,9"
+Aluno 25,Feminino,19/12/2008,Zona Rural,Não,Não Informou,Pública,Até 1 salário mínimo,Mãe,Ensino médio incompleto,Serviços Rurais,5,Não,,,,"9,7",9,"6,6","8,5","9,6",
+Aluno 26,Feminino,24/03/2006,Zona Rural,Sim,11 - 15 km,Pública,Mais de 1 até 2 salários mínimos,Mãe,Ensino fundamental incompleto,Serviços Rurais,8,Não,6,7,7,6,7,6,6,7,6
+Aluno 27,Feminino,12/09/2008,Zona Urbana,Sim,Não Informou,Pública,Até 1 salário mínimo,Mãe,Ensino fundamental completo,Serviços Rurais,3,Não,10,10,10,10,9,8,8,7,7
+Aluno 28,Feminino,16/12/2008,Zona Urbana,Não,16 - 20 km,Pública,Mais de 1 até 2 salários mínimos,Mãe,Ensino médio completo,Setor Privado,4,Não,8,9,8,8,9,8,7,7,8
+Aluno 29,Masculino,11/11/2008,Zona Rural,Não,Não Informou,Pública,Mais de 2 até 3 salários mínimos,Mãe,Ensino médio completo,Setor Privado,5,Sim,,,,"9,3","8,4",10,10,"7,3","6,6"
+Aluno 30,Masculino,31/10/2008,Zona Urbana,Sim,Não Informou,Pública,Não Informado,Mãe,Ensino médio completo,Serviços Rurais,5,Não,9,8,8,8,6,7,9,8,6
+Aluno 31,Masculino,05/01/2008,Zona Rural,Não,Mais de 40,Pública,Até 1 salário mínimo,Mãe,Ensino fundamental incompleto,Serviços Rurais,3,Não,7,6,6,6,6,6,6,6,6
+Aluno 32,Feminino,26/06/2009,Zona Rural,Não,16 - 20 km,Pública,Até 1 salário mínimo,Mãe,Ensino fundamental completo,Serviços Rurais,3,Não,8,7,9,6,6,7,6,6,6
+Aluno 33,Feminino,23/03/2008,Zona Urbana,Sim,16 - 20 km,Pública,Até 1 salário mínimo,Mãe,Ensino fundamental completo,Serviços Rurais,4,Não,,,,6,"6,7","6,3",6,"8,1",8
+Aluno 34,Feminino,09/03/2009,Zona Rural,Não,21 - 25 km,Pública,Até 1 salário mínimo,Mãe,Ensino fundamental completo,Serviços Rurais,3,Não,10,8,8,9,7,8,6,6,9
+Aluno 35,Feminino,20/08/2008,Zona Urbana,Não,0 - 5 km,Pública,Até 1 salário mínimo,Mãe,Ensino fundamental incompleto,Serviços Rurais,7,Não,8,8,8,9,7,7,8,7,7
+Aluno 36,Feminino,07/11/2008,Zona Rural,Não,6 - 10 km,Pública,Até 1 salário mínimo,Pai,Ensino médio completo,Serviços Rurais,6,Não,9,9,6,6,6,7,6,6,6
+Aluno 37,Feminino,10/09/2008,Zona Urbana,Não,21 - 25 km,Pública,Até 1 salário mínimo,Mãe,Ensino fundamental incompleto,Serviços Rurais,2,Não,,,,"5,5",6,"6,2","7,5",6,"6,5"
+Aluno 38,Feminino,22/08/2008,Zona Urbana,Sim,21 - 25 km,Pública,Até 1 salário mínimo,Mãe,Ensino fundamental incompleto,Serviços Rurais,3,Não,,,,"6,7",6,"9,5","9,8","5,1","6,1"
+Aluno 39,Feminino,30/12/2009,Zona Urbana,Sim,0 - 5 km,Pública,Até 1 salário mínimo,Mãe,Ensino médio completo,Serviços Rurais,3,Não,7,9,9,9,6,8,8,7,7
+Aluno 40,Feminino,25/03/2009,Zona Urbana,Sim,11 - 15 km,Pública,Mais de 1 até 2 salários mínimos,Mãe,Ensino médio completo,Serviços Rurais,5,Não,7,9,9,9,8,7,6,7,8
+Aluno 41,Feminino,10/12/2008,Zona Urbana,Não,11 - 15 km,Pública,Mais de 2 até 3 salários mínimos,Mãe,Ensino superior completo,Setor Público,5,Não,8,8,8,8,8,10,7,7,7
+Aluno 42,Masculino,22/05/2009,Zona Urbana,Não,16 - 20 km,Pública,Mais de 1 até 2 salários mínimos,Pai,Ensino superior completo,Setor Público,4,Não,9,10,9,8,8,6,8,6,7
+Aluno 43,Masculino,19/11/2008,Zona Urbana,Não,21 - 25 km,Pública,Mais de 5 salários mínimos,Mãe,Ensino superior completo,Setor Privado,5,Não,"7,5",,,"8,3","8,5",7,6,"6,9","6,9"
+Aluno 44,Feminino,18/03/2009,Zona Rural,Não,21 - 25 km,Pública,Até 1 salário mínimo,Mãe,Ensino fundamental incompleto,Serviços Rurais,4,Não,,,,"5,4",7,7,6,6,7
+Aluno 45,Feminino,07/08/2008,Zona Rural,Sim,16 - 20 km,Pública,Até 1 salário mínimo,Mãe,Ensino médio completo,Serviços Rurais,3,Não,7,6,7,8,7,8,7,6,6
+Aluno 46,Masculino,02/03/2004,Zona Urbana,Não,0 - 5 km,Privada,Mais de 3 até 4 salários mínimos,Pai,Ensino superior completo,Setor Privado,5,Não,"9,2","9,8","9,9","9,4","9,9","9,4","8,4","7,9",
+Aluno 47,Masculino,01/07/2007,Zona Urbana,Não,0 - 5 km,Pública,Mais de 2 até 3 salários mínimos,Mãe,Ensino superior completo,Serviços Rurais,6,Não,,,,"9,9","9,9","9,3",10,"9,3",
+Aluno 48,Feminino,19/07/2007,Zona Urbana,Não,0 - 5 km,Privada,Mais de 3 até 4 salários mínimos,Mãe,Ensino superior completo,Setor Público,3,Não,"9,8","9,7","9,6","9,3",10,"9,6","9,2","8,7","8,2"
+Aluno 49,Feminino,05/12/2007,Zona Urbana,Não,0 - 5 km,Privada,Mais de 5 salários mínimos,Mãe,Ensino superior completo,Setor Público,4,Não,"9,5","8,9","8,6","8,6","9,5","7,6",8,"7,8","7,6"
+Aluno 50,Masculino,03/09/2007,Zona Rural,Sim,16 - 20 km,Pública,Até 1 salário mínimo,Mãe,Ensino médio completo,Serviços Rurais,4,Não,,,,"7,2","7,5","6,5","8,5","7,9",7
+Aluno 51,Masculino,14/10/2007,Zona Rural,Sim,0 - 5 km,Pública,Mais de 1 até 2 salários mínimos,Mãe,Ensino médio incompleto,Serviços Rurais,7,Não,7,9,9,9,8,8,6,7,9
+Aluno 52,Masculino,03/01/2008,Zona Rural,Sim,0 - 5 km,Pública,Até 1 salário mínimo,Mãe,Ensino médio completo,Serviços Rurais,5,Não,7,7,9,9,9,8,9,8,7
+Aluno 53,Feminino,12/06/2007,Zona Urbana,Não,21 - 25 km,Pública,Mais de 1 até 2 salários mínimos,Pai,Ensino médio completo,Autônomo(a),3,Não,,,,"8,5","7,4","7,7",6,"7,5","6,5"
+Aluno 54,Masculino,23/05/2007,Zona Rural,Sim,11 - 15 km,Pública,Mais de 1 até 2 salários mínimos,Mãe,Ensino fundamental incompleto,Serviços Rurais,3,Não,7,7,9,9,8,7,7,8,8
+Aluno 55,Masculino,04/10/2006,Zona Rural,Sim,31 - 35 km,Pública,Até 1 salário mínimo,Pai,Ensino fundamental incompleto,Serviços Rurais,3,Não,,,,"6,1","8,6","7,5","6,1","7,2",6
+Aluno 56,Feminino,23/05/2008,Zona Rural,Sim,Não Informou,Pública,Até 1 salário mínimo,Mãe,Ensino médio completo,Serviços Rurais,3,Não,7,7,6,7,6,6,7,6,6
+Aluno 57,Feminino,27/01/2007,Zona Urbana,Não,21 - 25 km,Pública,Até 1 salário mínimo,Mãe,Ensino fundamental incompleto,Serviços Rurais,5,Não,,,,"9,4","7,8",7,6,6,5
+Aluno 58,Masculino,23/09/2006,Zona Rural,Não,16 - 20 km,Pública,Mais de 2 até 3 salários mínimos,Mãe,Ensino fundamental completo,Serviços Rurais,9,Não,7,8,6,7,6,6,6,7,6
+Aluno 59,Masculino,23/03/2006,Zona Rural,Não,0 - 5 km,Pública,Até 1 salário mínimo,Pai,Ensino médio completo,Serviços Rurais,5,Não,6,6,6,6,6,6,6,8,6
+Aluno 60,Masculino,09/05/2007,Zona Rural,Sim,Não Informou,Pública,Até 1 salário mínimo,Mãe,Ensino médio completo,Serviços Rurais,5,Não,8,10,9,8,9,6,8,6,7
+Aluno 61,Feminino,20/01/2007,Zona Rural,Sim,11 - 15 km,Pública,Até 1 salário mínimo,Mãe,Ensino fundamental incompleto,Serviços Rurais,3,Não,6,6,6,6,6,6,8,7,6
+Aluno 62,Masculino,18/08/2004,Zona Urbana,Sim,Não Informou,Pública,Até 1 salário mínimo,Mãe,Ensino médio completo,Serviços Rurais,3,Não,7,8,8,6,6,7,7,8,7
+Aluno 63,Masculino,15/05/2007,Zona Rural,Não,Não Informou,Pública,Até 1 salário mínimo,Mãe,Ensino superior completo,Setor Privado,4,Não,7,8,6,6,7,6,8,7,7
+Aluno 64 ,Feminino,28/06/2007,Zona Urbana,Sim,0 - 5 km,Pública,Até 1 salário mínimo,Mãe,Ensino médio incompleto,Serviços Rurais,7,Não,7,6,6,6,7,7,6,9,6
+Aluno 65,Masculino,07/03/2008,Zona Urbana,Sim,Não Informou,Pública,Até 1 salário mínimo,Mãe,Ensino médio incompleto,Serviços Rurais,6,Não,6,7,6,6,6,6,7,6,6
+Aluno 66,Feminino,06/07/2007,Zona Rural,Não,16 - 20 km,Pública,Até 1 salário mínimo,Outro,Ensino superior completo,Serviços Rurais,6,Não,7,6,8,10,6,6,7,8,7
+Aluno 67,Feminino,13/02/2008,Zona Urbana,Sim,31 - 35 km,Pública,Até 1 salário mínimo,Mãe,Ensino médio completo,Serviços Rurais,3,Não,,,,"6,7","7,6","6,3","6,7","6,9","6,5"
+Aluno 68,Feminino,12/04/2007,Zona Rural,Não,0 - 5 km,Pública,Mais de 1 até 2 salários mínimos,Mãe,Ensino médio completo,Serviços Rurais,5,Não,,,,"9,7","9,8",9,"6,6","7,5","8,5"
+Aluno 69,Masculino,06/12/2007,Zona Urbana,Não,21 - 25 km,Pública,Até 1 salário mínimo,Mãe,Ensino fundamental incompleto,Serviços Rurais,3,Não,,,,"8,3","7,7",8,"7,3","9,3",5
+Aluno 70,Feminino,27/01/2007,Zona Urbana,Não,Não Informou,Pública,Mais de 2 até 3 salários mínimos,Mãe,Ensino superior incompleto,Setor Público,4,Não,10,10,10,8,8,8,9,9,7
+Aluno 71,Masculino,05/03/2008,Zona Urbana,Não,Não Informou,Pública,Mais de 2 até 3 salários mínimos,Mãe,Ensino superior completo,Setor Público,4,Não,,,,"7,6","6,9","6,5","7,2","5,6",6
+Aluno 72,Masculino,01/11/2005,Zona Rural,Não,26 - 30 km,Pública,Até 1 salário mínimo,Mãe,Ensino médio completo,Setor Privado,4,Não,7,8,7,7,6,6,7,6,7
+Aluno 73,Feminino,03/09/2008,Zona Rural,Não,16 - 20 km,Pública,Até 1 salário mínimo,Mãe,Ensino fundamental incompleto,Serviços Rurais,3,Não,7,9,10,10,9,8,8,9,7
+Aluno 74,Masculino,14/08/2006,Zona Rural,Sim,0 - 5 km,Pública,Até 1 salário mínimo,Outro,Ensino médio completo,Serviços Rurais,3,Não,7,6,6,6,6,6,6,6,7
+Aluno 75,Masculino,15/07/2005,Zona Urbana,Não,0 - 5 km,Pública,Mais de 1 até 2 salários mínimos,Outro,Ensino fundamental incompleto,Serviços Rurais,2,Não,"6,5",9,6,6,6,6,6,7,6
+Aluno 76,Feminino,26/12/2007,Zona Urbana,Não,21 - 25 km,Privada,Até 1 salário mínimo,Mãe,Ensino médio completo,Serviços Rurais,3,Não,"8,3","8,4","8,8",7,"7,5","7,6","8,8","9,2","7,1"
+Aluno 77,Feminino,31/10/2007,Zona Urbana,Não,0 - 5 km,Pública,Mais de 1 até 2 salários mínimos,Pai,Ensino médio completo,Serviços Rurais,4,Não,,,,"9,2","8,6","7,6","6,9","9,1","8,5"
+Aluno 78,Feminino,01/12/2006,Zona Rural,Sim,0 - 5 km,Pública,Até 1 salário mínimo,Mãe,Ensino fundamental completo,Serviços Rurais,3,Não,7,10,9,8,7,8,8,7,8
+Aluno 79,Feminino,05/09/2007,Zona Rural,Sim,6 - 10 km,Pública,Até 1 salário mínimo,Mãe,Ensino médio completo,Serviços Rurais,2,Não,9,8,7,7,6,6,6,6,6
+Aluno 80,Masculino,03/07/2006,Zona Urbana,Não,16 - 20 km,Pública,Até 1 salário mínimo,Mãe,Ensino fundamental incompleto,Serviços Rurais,3,Não,8,9,8,7,7,6,6,8,6
+Aluno 81,Masculino,24/01/2007,Zona Urbana,Sim,16 - 20 km,Pública,Até 1 salário mínimo,Mãe,Ensino médio incompleto,Serviços Domésticos,4,Não,10,10,10,10,9,9,9,7,9
+Aluno 82,Feminino,23/10/2006,Zona Rural,Não,11 - 15 km,Pública,Até 1 salário mínimo,Pai,Ensino superior completo,Setor Público,2,Não,"6,5",9,9,9,8,8,6,7,8
+Aluno 83,Masculino,04/04/2004,Zona Rural,Não,0 - 5 km,Pública,Até 1 salário mínimo,Mãe,Analfabeto(a),Aposentado(a),3,Não,6,6,7,7,7,7,6,6,7
+Aluno 84,Feminino,23/09/2005,Zona Rural,Sim,0 - 5 km,Pública,Até 1 salário mínimo,Mãe,Ensino fundamental incompleto,Serviços Rurais,4,Sim,6,7,7,6,6,6,6,8,7
+Aluno 85,Feminino,12/09/2006,Zona Rural,Sim,21 - 25 km,Pública,Até 1 salário mínimo,Mãe,Ensino médio incompleto,Serviços Rurais,4,Sim,,,,"8,5","7,6","6,7","8,3","8,5","7,5"
+Aluno 86,Feminino,28/03/2007,Zona Urbana,Não,16 - 20 km,Pública,Até 1 salário mínimo,Pai,Ensino fundamental incompleto,Serviços Rurais,4,Não,9,9,9,8,8,7,6,7,6
+Aluno 87,Feminino,05/03/2005,Zona Urbana,Não,0 - 5 km,Pública,Mais de 1 até 2 salários mínimos,Mãe,Ensino médio completo,Serviços Rurais,4,Não,"6,5",9,6,8,7,7,6,8,7
+Aluno 88,Feminino,29/05/2003,Zona Urbana,Não,0 - 5 km,Pública,Mais de 1 até 2 salários mínimos,Mãe,Ensino fundamental incompleto,Serviços Rurais,3,Não,6,7,6,6,6,6,6,8,8
+Aluno 89,Masculino,03/05/2003,Zona Urbana,Não,26 - 30 km,Pública,Mais de 1 até 2 salários mínimos,Mãe,Ensino médio completo,Setor Privado,3,Sim,,,,"7,7","7,2","7,6","7,5",9,7
+Aluno 90,Masculino,27/09/2006,Zona Rural,Sim,16 - 20 km,Pública,Até 1 salário mínimo,Mãe,Ensino fundamental completo,Serviços Rurais,5,Sim,8,10,10,10,10,9,8,9,9
+Aluno 91,Masculino,25/11/2006,Zona Urbana,Não,16 - 20 km,Pública,Mais de 2 até 3 salários mínimos,Outro,Analfabeto(a),Serviços Rurais,3,Não,"9,5",9,9,8,8,8,7,7,8
+Aluno 92,Masculino,12/07/2007,Zona Urbana,Sim,16 - 20 km,Pública,Mais de 1 até 2 salários mínimos,Mãe,Ensino médio completo,Serviços Rurais,6,Sim,,,,"9,1","8,9","9,1","9,1",10,"9,6"
+Aluno 93,Feminino,13/12/2006,Zona Urbana,Não,21 - 25 km,Pública,Mais de 1 até 2 salários mínimos,Mãe,Ensino médio completo,Setor Público,2,Não,,,,"8,3","9,2","8,8","8,7","9,1","8,6"
+Aluno 94,Feminino,21/06/2006,Zona Urbana,Não,21 - 25 km,Pública,Mais de 4 até 5 salários mínimos,Mãe,Ensino superior incompleto,Setor Privado,5,Não,,,,"8,6",8,"8,2",7,"8,8","7,5"
+Aluno 95,Feminino,28/07/2006,Zona Rural,Não,16 - 20 km,Pública,Mais de 1 até 2 salários mínimos,Pai,Ensino médio incompleto,Serviços Rurais,4,Não,9,9,10,8,10,9,6,8,8
+Aluno 96,Feminino,24/02/2007,Zona Rural,Não,16 - 20 km,Pública,Até 1 salário mínimo,Mãe,Ensino fundamental completo,Serviços Rurais,3,Não,10,9,9,7,8,7,7,10,9
+Aluno 97,Masculino,25/09/2006,Zona Urbana,Sim,16 - 20 km,Pública,Mais de 2 até 3 salários mínimos,Mãe,Ensino superior completo,Setor Público,4,Não,9,10,10,10,9,8,8,9,8
+Aluno 98,Feminino,26/05/2005,Zona Rural,Não,Não Informou,Pública,Mais de 1 até 2 salários mínimos,Mãe,Ensino fundamental incompleto,Serviços Rurais,9,Não,9,9,8,9,7,7,7,7,8
+Aluno 99,Feminino,29/06/2007,Zona Urbana,Não,21 - 25 km,Pública,Até 1 salário mínimo,Mãe,Ensino fundamental incompleto,Serviços Rurais,2,Não,10,10,10,8.7,8.3,6,7,10,9
+Aluno 100,Feminino,22/03/2007,Zona Rural,Não,16 - 20 km,Pública,Mais de 1 até 2 salários mínimos,Pai,Ensino superior completo,Setor Público,5,Não,10,10,10,"8,4",8,"7,8","6,3","7,5",10
+Aluno 101,Feminino,12/01/2007,Zona Urbana,Sim,31 - 35 km,Pública,Até 1 salário mínimo,Pai,Ensino fundamental completo,Serviços Rurais,5,Não,10,10,10,"7,8","9,3","8,3","6,3","9,2","8,1"
+Aluno 102,Feminino,20/04/2006,Zona Urbana,Não,16 - 20 km,Pública,Até 1 salário mínimo,Mãe,Ensino médio completo,Setor Público,3,Não,"9,5",9,9,10,90,90,90,90,100
+Aluno 103,Feminino,03/01/2007,Zona Urbana,Sim,16 - 20 km,Pública,Até 1 salário mínimo,Mãe,Ensino médio completo,Serviços Rurais,2,Não,"9,5",10,10,10,9,9,8,9,9
+Aluno 104,Feminino,15/04/2007,Zona Rural,Sim,16 - 20 km,Pública,Até 1 salário mínimo,Mãe,Ensino fundamental incompleto,Serviços Rurais,3,Não,7,7,8,9,8,7,6,9,8
+Aluno 105,Masculino,11/09/2007,Zona Rural,Sim,21 - 25 km,Pública,Até 1 salário mínimo,Pai,Ensino fundamental completo,Serviços Rurais,3,Não,8,9,8,8,9,8,8,8,8
+Aluno 106,Feminino,20/04/2007,Zona Rural,Sim,11 - 15 km,Pública,Até 1 salário mínimo,Mãe,Ensino fundamental incompleto,Serviços Rurais,5,Não,7,8,8,8,6,6,7,8,7
+Aluno 107,Feminino,22/10/2007,Zona Urbana,Não,31 - 35 km,Pública,Até 1 salário mínimo,Mãe,Ensino fundamental completo,Serviços Rurais,5,Não,10,10,10,"6,1","7,9","6,6",5,6,"7,8"
+Aluno 108,Masculino,22/10/2006,Zona Rural,Sim,6 - 10 km,Pública,Até 1 salário mínimo,Mãe,Ensino fundamental completo,Serviços Rurais,4,Não,7,7,7,6,7,6,6,9,6
+Aluno 109,Masculino,15/02/2007,Zona Rural,Sim,16 - 20 km,Pública,Mais de 1 até 2 salários mínimos,Pai,Ensino fundamental incompleto,Serviços Rurais,6,Não,"6,5",8,7,9,6,6,6,7,7
+Aluno 110,Masculino,07/02/2006,Zona Urbana,Não,0 - 5 km,Pública,Até 1 salário mínimo,Mãe,Ensino médio completo,Autônomo(a),3,Não,"6,5",7,6,6,6,6,6,8,8
+Aluno 111,Feminino,13/05/2006,Zona Urbana,Não,0 - 5 km,Pública,Até 1 salário mínimo,Mãe,Ensino superior completo,Setor Público,3,Não,8,9,8,7,7,6,6,7,6
