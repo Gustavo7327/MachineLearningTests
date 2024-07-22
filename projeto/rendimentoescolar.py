@@ -13,6 +13,7 @@ import pandas as pd
 from sklearn.model_selection import train_test_split
 from sklearn.ensemble import RandomForestRegressor
 from sklearn.metrics import mean_squared_error
+import matplotlib.pyplot as plt
 
 """Lendo a base de dados"""
 
@@ -21,7 +22,7 @@ data.head()
 
 """Separando x e y"""
 
-Xvariaveis = data.drop(['Nome (codificado)', 'Data de Nascimento'], axis=1)
+Xvariaveis = data.drop(['Nome (codificado)', 'Data de Nascimento', '9º MAT'], axis=1)
 y = data['9º MAT']
 Xvariaveis.dtypes
 
@@ -49,3 +50,23 @@ y_pred = model.predict(X_test)
 
 mse = mean_squared_error(y_test, y_pred)
 print("Mean Squared Error:", mse)
+
+"""Armazenando importância das variáveis"""
+
+importances = model.feature_importances_
+print(importances)
+
+"""Renderizando importância das variáveis"""
+
+plt.figure(figsize=(45, 6))
+plt.bar(Xvariaveis.columns, importances)
+plt.xlabel("Variáveis")
+plt.ylabel("Importância")
+plt.title("Importância de Recursos (Random Forest)")
+fig = plt.gcf()
+plt.show()
+
+import os
+nome_arquivo = "grafico.png"
+diretorio = os.path.join(os.getcwd())
+fig.savefig(os.path.join(diretorio, nome_arquivo))
